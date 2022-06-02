@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListNewsComposeMVVM</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_staff">StaffActivity</string>
+</resources>
